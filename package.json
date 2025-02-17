@@ -1,0 +1,22 @@
+{
+  "name": "first-real-world-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node your-server-file.js"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mfarai/First-Real-World-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mfarai/First-Real-World-project/issues"
+  },
+  "homepage": "https://github.com/Mfarai/First-Real-World-project#readme",
+  "description": ""
+}
